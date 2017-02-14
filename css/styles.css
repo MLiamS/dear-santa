@@ -24,3 +24,17 @@ p {
 .red-background {
   background-color: red;
 }
+
+.light-background{
+  background-color: #ffffff;
+  color: black;
+}
+
+.dark-background{
+  background-color: #000000;
+  color: white;
+}
+.dark-background p {
+  color: #ffffff;
+
+}

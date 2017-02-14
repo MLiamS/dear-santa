@@ -19,4 +19,14 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("red-background");
   });
+
+  $("button#invert").click(function(){
+    $("body").removeClass();
+    $("body").addClass("dark-background");
+  });
+
+  $("button#devert").click(function(){
+    $("body").removeClass();
+    $("body").addClass("light-background");
+  });
 });
