@@ -1,6 +1,9 @@
 #ferrari-hidden{
   display: none;
+  /*background-color: red;*/
 }
+
+
 
 p {
   cursor: pointer;
